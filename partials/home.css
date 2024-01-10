@@ -61,8 +61,8 @@
 
 .home__img {
   position: absolute;
-  width: 490px; /* Ajuste o valor conforme necessário */
-  height: 713px; /* Ajuste o valor conforme necessário */
+  width: 265px; /* Ajuste para corresponder ao tamanho da .home__orbe */
+  height: 284px; /* Ajuste para corresponder ao tamanho da .home__orbe */
   overflow: hidden;
   border-radius: 125px 125px 12px 12px;
   display: inline-flex;
@@ -70,6 +70,7 @@
   bottom: -1.5rem;
   box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25);
 }
+
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
