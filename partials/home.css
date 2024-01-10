@@ -59,10 +59,10 @@
   border-radius: 135px 135px 0 0;
 }
 
-.home__img{
+.home__img {
   position: absolute;
-  width: 250px;
-  height: 300px;
+  width: 300px; /* Ajuste o valor conforme necessário */
+  height: 360px; /* Ajuste o valor conforme necessário */
   overflow: hidden;
   border-radius: 125px 125px 12px 12px;
   display: inline-flex;
